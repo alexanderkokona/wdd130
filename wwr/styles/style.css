@@ -65,7 +65,7 @@ header{
 }
 
 nav a {
-    color: var(--paragraph-color-on-color);
+    color: var(--accent3-color);
     text-align: center;
     text-decoration: none;
     padding: 35px;
@@ -74,7 +74,7 @@ nav a {
 }
 
 nav a:hover{
-    color: var(--paragraph-color-on-color);
+    color: var(--accent3-color);
     font-family: var(--paragraph-font);
     text-align: center;
 
@@ -86,14 +86,14 @@ nav a:hover{
     text-align: center;
 }
 .home-title{
-    color:var(--nav-hover-link-color) ;
+    color:var(--accent4-color) ;
     font-family: var(--heading-font);
     font-weight: 700;
     font-size: 2em;
     margin-top: 10px;
 }
 h4{
-    color: var(--nav-hover-link-color);
+    color: var(--accent4-color);
 }
 
 .button-box {
